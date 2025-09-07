@@ -1,8 +1,9 @@
 # Hi 👋, I'm Shivam Verma
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=450&height=45&lines=Emerging+Software+Engineer;Open-Source+Enthusiast;AI+Innovator;Data+Science+Learner;Problem+Solver;Nice+To+Meet+You+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=450&height=45&lines=Emerging+Software+Engineer;Open-Source+Enthusiast;AI+Innovator;Problem+Solver;Nice+To+Meet+You+!" alt="Typing SVG" />
 </p>
+
 
 ---
 
