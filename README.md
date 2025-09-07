@@ -92,7 +92,12 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Shivam995698&icon=0&color=0" />
 </p>
-![snake gif](https://github.com/Shivam995698/Shivam995698/blob/output/github-contribution-grid-snake.svg)
+# GitHub Snake 🐍
+
+Mera GitHub contribution activity ka snake game! 🎉
+
+![snake gif](https://github.com/Shivam995698/Shivam995698/raw/output/snake.svg)
+
 
 
 
