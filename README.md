@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=450&height=45&lines=Emerging+Software+Engineer;Open-Source+Enthusiast;AI+Innovator;Problem+Solver;Nice+To+Meet+You+!" alt="Typing SVG" />
 </p>
 
-
 ---
 
 ## 🌐 Connect With Me
@@ -55,7 +54,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shivam995698&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam995698&theme=radical&hide_border=false" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=Shivam995698&theme=radical&hide_border=false" height="180em"/>
 </p>
 
 <p align="center">
@@ -91,8 +90,3 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Shivam995698&icon=0&color=0" />
 </p>
-
-
-
-
-
